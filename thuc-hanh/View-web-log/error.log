@@ -1,0 +1,36 @@
+[Sat Dec 05 14:13:07.481556 2020] [mpm_event:notice] [pid 5622:tid 139676729424960] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sat Dec 05 14:13:07.481624 2020] [core:notice] [pid 5622:tid 139676729424960] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Dec 05 14:54:00.460634 2020] [mpm_event:notice] [pid 5622:tid 139676729424960] AH00491: caught SIGTERM, shutting down
+[Sat Dec 05 15:12:17.104222 2020] [mpm_prefork:notice] [pid 23052] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sat Dec 05 15:12:17.105576 2020] [core:notice] [pid 23052] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Dec 05 15:12:17.414712 2020] [mpm_prefork:notice] [pid 23052] AH00169: caught SIGTERM, shutting down
+[Sat Dec 05 15:12:17.460836 2020] [mpm_prefork:notice] [pid 23119] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sat Dec 05 15:12:17.460879 2020] [core:notice] [pid 23119] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Dec 05 17:54:12.490248 2020] [mpm_prefork:notice] [pid 23119] AH00169: caught SIGTERM, shutting down
+[Sun Dec 06 09:57:22.287820 2020] [mpm_prefork:notice] [pid 1178] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Dec 06 09:57:22.288185 2020] [core:notice] [pid 1178] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Dec 06 12:31:38.833023 2020] [mpm_prefork:notice] [pid 1178] AH00169: caught SIGTERM, shutting down
+[Sun Dec 06 21:04:13.110973 2020] [mpm_prefork:notice] [pid 1203] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Dec 06 21:04:13.111340 2020] [core:notice] [pid 1203] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Dec 07 00:36:22.394966 2020] [mpm_prefork:notice] [pid 1203] AH00169: caught SIGTERM, shutting down
+[Mon Dec 07 07:52:10.988378 2020] [mpm_prefork:notice] [pid 1183] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 07 07:52:10.988596 2020] [core:notice] [pid 1183] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Dec 07 10:38:52.099513 2020] [php7:error] [pid 1186] [client 127.0.0.1:51836] script '/var/www/html/index.php' not found or unable to stat
+[Mon Dec 07 10:39:24.793106 2020] [php7:error] [pid 1190] [client 127.0.0.1:51852] script '/var/www/html/index.php' not found or unable to stat
+[Mon Dec 07 11:27:02.205627 2020] [php7:notice] [pid 1186] [client ::1:37302] PHP Notice:  Undefined index: username in /var/www/html/lesson1_Web_App/[th]chuc_nang_dang_nhap/index.php on line 27, referer: http://localhost/lesson1_Web_App/%5bth%5dchuc_nang_dang_nhap/?username=admin&password=admin
+[Mon Dec 07 11:27:02.205662 2020] [php7:notice] [pid 1186] [client ::1:37302] PHP Notice:  Undefined index: password in /var/www/html/lesson1_Web_App/[th]chuc_nang_dang_nhap/index.php on line 28, referer: http://localhost/lesson1_Web_App/%5bth%5dchuc_nang_dang_nhap/?username=admin&password=admin
+[Mon Dec 07 17:28:15.134310 2020] [mpm_prefork:notice] [pid 1183] AH00169: caught SIGTERM, shutting down
+[Mon Dec 07 17:28:36.052617 2020] [mpm_prefork:notice] [pid 1173] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 07 17:28:36.052782 2020] [core:notice] [pid 1173] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Dec 07 17:53:30.912331 2020] [mpm_prefork:notice] [pid 1173] AH00169: caught SIGTERM, shutting down
+[Tue Dec 08 07:22:35.362735 2020] [mpm_prefork:notice] [pid 1218] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Dec 08 07:22:35.366468 2020] [core:notice] [pid 1218] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 08 11:18:23.842328 2020] [mpm_prefork:notice] [pid 1218] AH00169: caught SIGTERM, shutting down
+[Tue Dec 08 11:19:06.805553 2020] [mpm_prefork:notice] [pid 1162] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Dec 08 11:19:06.805751 2020] [core:notice] [pid 1162] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 08 11:50:54.336121 2020] [mpm_prefork:notice] [pid 1162] AH00169: caught SIGTERM, shutting down
+[Tue Dec 08 11:51:15.101586 2020] [mpm_prefork:notice] [pid 1179] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Dec 08 11:51:15.101771 2020] [core:notice] [pid 1179] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Dec 08 17:36:43.770679 2020] [mpm_prefork:notice] [pid 1179] AH00169: caught SIGTERM, shutting down
+[Tue Dec 08 22:00:07.280520 2020] [mpm_prefork:notice] [pid 1202] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue Dec 08 22:00:07.282083 2020] [core:notice] [pid 1202] AH00094: Command line: '/usr/sbin/apache2'
