@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/thuc-hanh/View-web-log" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lOlf7t9NyIAa4F2L3dL3luDidO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607476118641</updated>
       <workItem from="1607476119746" duration="18420000" />
-      <workItem from="1607505158907" duration="9382000" />
+      <workItem from="1607505158907" duration="9760000" />
     </task>
     <servers />
   </component>
